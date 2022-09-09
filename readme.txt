@@ -1,2 +1,2 @@
-git is a gggg
+git is a GPL
 git a free software
